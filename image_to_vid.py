@@ -11,4 +11,4 @@ root.geometry('1024x768+500+100') #set size of window and location it appears
 root.resizable(width=True, height=True)#Prevent user from changing size of window
 rClickbinder(root)#Enable copy paste as long myy
 
-root.mainloop()
+root.mainloop() #This is the end of the main loop
